@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
         "arange",
+        "eigenvals",
+        "eigenvects",
+        "sympy",
         "usetex"
     ]
 }
